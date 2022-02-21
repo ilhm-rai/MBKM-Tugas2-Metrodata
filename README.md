@@ -8,6 +8,8 @@
 - [x] First commit
 - [ ] Buat branch dengan nama masing-masing
 - [ ] Bikin file biodataNama.html bersetanya isinya Nama - Asal Sekolah
-- [ ] Merge masing-masing branch
-- [ ] Bikin file hobi.html
-- [ ] Merge conflict / 3-Way Merge
+- [ ] Push ke branch nama masing-masing dengan perintah `git push origin nama-masing-masing`
+- [ ] Merge nama branch masing-masing dengan main branch
+- [ ] Bikin file hobi.html oleh satu orang
+- [ ] Dua orang tambah satu hobi di line yang sama dan satu orang menambah dua hobi
+- [ ] Lakukan merge conflict dengan cara 3-Way merge
